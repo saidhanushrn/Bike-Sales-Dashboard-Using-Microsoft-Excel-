@@ -1,4 +1,4 @@
-# BIKE-SALES-DASHBOARD-USING-MICROSOFT-EXCEL-
+# Bike-Sales-Dashboard-Using-Microsoft-Excel-
 Developed an interactive sales dashboard in Excel using pivot tables, VLOOKUP, and conditional formatting to analyze 1000+ bike sales records. 
 Performed comprehensive data cleaning and exploratory data analysis (EDA) to ensure high-quality data and uncover sales trends by region, product, and time. 
 Automated data transformation and lookup processes, reducing manual effort by over 50%, and improving data accuracy. 
